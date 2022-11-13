@@ -32,3 +32,6 @@ But the year 2100 is not a leap year because:
 2100 ÷ 100 = 21 (Not Leap)
 
 2100 ÷ 400 = 5.25 (Not Leap)
+
+![Program-to-check-if-a-given-year-is-leap-year-min-1024x512](https://user-images.githubusercontent.com/117787883/201504333-56973873-bcaa-4a08-a2bf-80ffb22a894e.png)
+
